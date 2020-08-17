@@ -1,0 +1,20 @@
+#acc-position-title-bar{
+    background-color: #0072AA;
+    height: 2rem;
+    color: white;
+    font-size: 0.8rem;
+}
+
+#acc-position-footer{
+    background-color: #0072AA;
+    height: 1rem;
+}
+
+#acc-position-content{
+    padding: 2rem 2rem;
+    background-color: white;
+}
+
+.left-align{
+    text-align: right;
+}
